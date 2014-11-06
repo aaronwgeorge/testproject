@@ -5,4 +5,4 @@ Test project
 
 Here is a nice modification
 
-I'm practicing committing some code to GitHub.
+My name is Aaron. Adding some text for practice...
